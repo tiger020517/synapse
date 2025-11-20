@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# 개발환경 관련
+android/local.properties
+ios/Pods/
